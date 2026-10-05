@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Moazzez;Arash;;;
+FN:Arash Moazzez
+ORG:Club-K9
+TITLE:Co-Owner
+TEL;TYPE=CELL,VOICE:+17039871717
+item1.TEL;TYPE=WORK,VOICE:+15715060121
+item1.X-ABLabel:24/7 AI Receptionist
+EMAIL;TYPE=INTERNET,WORK:arash.m@club-k9.com
+URL:https://club-k9.com/
+ADR;TYPE=WORK:;;1508 Moran Rd;Sterling;VA;20166;US
+END:VCARD
